@@ -1,0 +1,10 @@
+{
+    "extends": [
+        "./node_modules/@satazor/eslint-config/es5.js",
+        "./node_modules/@satazor/eslint-config/addons/node.js"
+    ],
+    "rules": {
+        // consistency for this project
+        "quote-props": [2, "always"]
+    }
+}

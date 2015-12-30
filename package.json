@@ -1,0 +1,30 @@
+{
+  "name": "@satazor/stylelint-config",
+  "description": "My own stylelint configurations",
+  "version": "0.1.0",
+  "keywords": [
+    "stylelint-config",
+    "stylelintconfig",
+    "stylelint",
+    "css",
+    "lint",
+    "linter",
+    "style",
+    "suit-css",
+    "suit"
+  ],
+  "author": "André Cruz <andremiguelcruz@msn.com>",
+  "homepage": "https://github.com/satazor/stylelint-config",
+  "bugs": {
+    "url": "https://github.com/satazor/stylelint-config/issues"
+  },
+  "repository": "git://github.com/satazor/stylelint-config.git",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-suitcss": "^2.0.0"
+  },
+  "devDependencies": {
+    "@satazor/eslint-config": "^1.0.4"
+  }
+}
