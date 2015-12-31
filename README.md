@@ -7,7 +7,7 @@ My own [stylelint](http://stylelint.io/) configurations, based on [stylelint-con
 
 `$ npm install --save-dev satazor@stylelint-config`
 
-This config was tested with `stylelint@^3.14.4`. Use other versions at your own risk. I will try to keep this project up to date with the changes of `eslint` and the plugins used here.
+This config was tested with `stylelint@^3.2.0`. Use other versions at your own risk. I will try to keep this project up to date with the changes of `eslint` and the plugins used here.
 
 
 ## Usage
