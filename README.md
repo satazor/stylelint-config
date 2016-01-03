@@ -1,5 +1,12 @@
 # stylelint-config
 
+[![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
+
+[david-dm-url]:https://david-dm.org/satazor/stylelint-config
+[david-dm-image]:https://img.shields.io/david/satazor/stylelint-config.svg
+[david-dm-dev-url]:https://david-dm.org/satazor/stylelint-config#info=devDependencies
+[david-dm-dev-image]:https://img.shields.io/david/dev/satazor/stylelint-config.svg
+
 My own [stylelint](http://stylelint.io/) configurations, based on [stylelint-config-suitcss](https://github.com/stylelint/stylelint-config-suitcss).
 
 
@@ -7,7 +14,7 @@ My own [stylelint](http://stylelint.io/) configurations, based on [stylelint-con
 
 `$ npm install --save-dev satazor@stylelint-config`
 
-This config was tested with `stylelint@^3.2.0`. Use other versions at your own risk. I will try to keep this project up to date with the changes of `eslint` and the plugins used here.
+This config was tested with `stylelint@^3.2.0`. Use other versions at your own risk. I will try to keep this project up to date with the changes of `stylelint` and the plugins used here.
 
 
 ## Usage
