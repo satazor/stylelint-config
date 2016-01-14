@@ -6,7 +6,6 @@ module.exports = {
     'rules': {
         // specify indentation
         'indentation': 4,
-
         // specify the order of properties within rules.
         // based on https://gist.github.com/MadLittleMods/929bcdefb2b29c9b97c3
         'rule-properties-order': [
@@ -114,6 +113,8 @@ module.exports = {
             {
                 'order': 'strict',
                 'properties': [
+                    'color',
+
                     'font',
                     'font-family',
                     'font-variant',
@@ -123,6 +124,7 @@ module.exports = {
                     'font-weight',
                     'font-stretch',
                     'font-style',
+                    'font-smoothing',
 
                     'text-decoration',
                     'text-underline-position',
@@ -133,11 +135,12 @@ module.exports = {
                     'text-justify',
                     'text-indent',
 
-                    'color',
                     'line-height',
-                    'white-space',
                     'tab-size',
+                    'white-space',
                     'word-spacing',
+                    'word-wrap',
+                    'overflow-wrap',
                 ],
             },
 
