@@ -12,7 +12,7 @@ My own [stylelint](http://stylelint.io/) configurations, based on [stylelint-con
 
 ## Installation
 
-`$ npm install --save-dev satazor@stylelint-config`
+`$ npm install --save-dev @satazor/stylelint-config`
 
 This config was tested with `stylelint@^3.2.0`. Use other versions at your own risk. I will try to keep this project up to date with the changes of `stylelint` and the plugins used here.
 
