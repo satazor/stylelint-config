@@ -22,7 +22,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-suitcss": "^2.0.0"
+    "stylelint-config-suitcss": "^4.0.0"
   },
   "devDependencies": {
     "@satazor/eslint-config": "^1.0.4",
