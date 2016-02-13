@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@satazor/eslint-config": "^1.0.4",
-    "stylelint": "^3.2.0"
+    "stylelint": "^4.3.0"
   }
 }
