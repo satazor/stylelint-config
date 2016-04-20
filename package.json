@@ -15,7 +15,7 @@
   ],
   "scripts": {
     "test": "npm run lint",
-    "lint": "eslint '{*.js,addons/**/*.js,rules/**/*.js}'"
+    "lint": "eslint '{*.js,rules/**/*.js}'"
   },
   "author": "André Cruz <andremiguelcruz@msn.com>",
   "homepage": "https://github.com/satazor/stylelint-config",
