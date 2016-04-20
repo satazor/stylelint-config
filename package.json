@@ -13,6 +13,9 @@
     "suit-css",
     "suit"
   ],
+  "scripts": {
+    "test": "echo no tests are necessary"
+  },
   "author": "André Cruz <andremiguelcruz@msn.com>",
   "homepage": "https://github.com/satazor/stylelint-config",
   "bugs": {
@@ -22,10 +25,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "stylelint-config-suitcss": "^2.0.0"
+    "stylelint-config-suitcss": "^5.0.0"
   },
   "devDependencies": {
-    "@satazor/eslint-config": "^1.0.4",
-    "stylelint": "^3.2.0"
+    "@satazor/eslint-config": "^2.2.0",
+    "eslint": "^2.8.0",
   }
 }

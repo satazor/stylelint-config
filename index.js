@@ -4,6 +4,8 @@ module.exports = {
     'extends': 'stylelint-config-suitcss',
     'legacyNumberedSeverities': false,
     'rules': {
+        // Limit the length of a line
+        'max-line-length': 0,
         // specify indentation
         'indentation': 4,
         // specify the order of properties within rules.
