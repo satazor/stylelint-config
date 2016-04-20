@@ -1,7 +1,7 @@
 {
   "name": "@satazor/stylelint-config",
   "description": "My own stylelint configurations",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "keywords": [
     "stylelint-config",
     "stylelintconfig",
@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "@satazor/eslint-config": "^2.2.0",
-    "eslint": "^2.8.0",
+    "eslint": "^2.8.0"
   }
 }
