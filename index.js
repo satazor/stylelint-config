@@ -5,12 +5,12 @@ module.exports = {
     'legacyNumberedSeverities': false,
     'rules': {
         // Limit the length of a line
-        'max-line-length': 0,
+        'max-line-length': 140,
         // specify indentation
         'indentation': 4,
         // specify the order of properties within rules.
         // based on https://gist.github.com/MadLittleMods/929bcdefb2b29c9b97c3
-        'rule-properties-order': [
+        'declaration-block-properties-order': [
             // overview
             {
                 'order': 'strict',
