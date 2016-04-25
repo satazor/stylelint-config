@@ -4,7 +4,11 @@ module.exports = {
     'extends': 'stylelint-config-suitcss',
     'legacyNumberedSeverities': false,
     'rules': {
-        // Limit the length of a line
+        // require or disallow an empty line before nested rules
+        'rule-nested-empty-line-before': ['always-multi-line', {
+            except: ['first-nested'],
+            ignore: ['after-comment'],
+        }],
         'max-line-length': 140,
         // specify indentation
         'indentation': 4,
