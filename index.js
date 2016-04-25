@@ -6,8 +6,8 @@ module.exports = {
     'rules': {
         // require or disallow an empty line before nested rules
         'rule-nested-empty-line-before': ['always-multi-line', {
-            except: ['first-nested'],
-            ignore: ['after-comment'],
+            'except': ['first-nested'],
+            'ignore': ['after-comment'],
         }],
         'max-line-length': 140,
         // specify indentation
