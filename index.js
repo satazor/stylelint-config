@@ -4,6 +4,11 @@ module.exports = {
     'extends': 'stylelint-config-suitcss',
     'legacyNumberedSeverities': false,
     'rules': {
+        // require or disallow an empty line before comments.
+        'comment-empty-line-before': ['always', {
+            'except': ['first-nested'],
+            'ignore': ['stylelint-commands', 'between-comments'],
+        }],
         // require or disallow an empty line before nested rules
         'rule-nested-empty-line-before': ['always-multi-line', {
             'except': ['first-nested'],
