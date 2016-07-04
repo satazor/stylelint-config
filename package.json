@@ -29,7 +29,7 @@
     "stylelint-config-suitcss": "^7.0.0"
   },
   "devDependencies": {
-    "@satazor/eslint-config": "^2.2.0",
-    "eslint": "^2.8.0"
+    "@satazor/eslint-config": "^3.0.0",
+    "eslint": "^3.0.0"
   }
 }
