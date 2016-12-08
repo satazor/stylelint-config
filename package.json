@@ -1,7 +1,7 @@
 {
   "name": "@satazor/stylelint-config",
   "description": "My own stylelint configurations",
-  "version": "8.0.1",
+  "version": "8.1.0",
   "keywords": [
     "stylelint-config",
     "stylelintconfig",
