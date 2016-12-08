@@ -31,14 +31,6 @@ module.exports = {
                 ],
             },
 
-            // positioning
-            {
-                'order': 'strict',
-                'properties': [
-
-                ],
-            },
-
             // position, dimensions and boundaries
             {
                 'order': 'strict',
@@ -73,6 +65,8 @@ module.exports = {
             {
                 'order': 'strict',
                 'properties': [
+                    'display',
+
                     // flexbox only
                     'flex',
                     'flex-basis',
