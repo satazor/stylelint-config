@@ -1,5 +1,7 @@
 # stylelint-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/satazor/stylelint-config.svg)](https://greenkeeper.io/)
+
 [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
 
 [david-dm-url]:https://david-dm.org/satazor/stylelint-config
