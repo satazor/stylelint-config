@@ -4,7 +4,7 @@
 
 [david-dm-url]:https://david-dm.org/satazor/stylelint-config
 [david-dm-image]:https://img.shields.io/david/satazor/stylelint-config.svg
-[david-dm-dev-url]:https://david-dm.org/satazor/stylelint-config#info=devDependencies
+[david-dm-dev-url]:https://david-dm.org/satazor/stylelint-config?type=dev
 [david-dm-dev-image]:https://img.shields.io/david/dev/satazor/stylelint-config.svg
 
 My own [stylelint](http://stylelint.io/) configurations, based on [stylelint-config-suitcss](https://github.com/stylelint/stylelint-config-suitcss).
